@@ -35,7 +35,21 @@ authentication-system/
 ---
 
 ## Screenshots
-(Add your screenshots in the screenshots folder here)
+
+### Login Page
+![Login](screenshots/login.jpg)
+
+### Register Page
+![Register](screenshots/register.jpg)
+
+### Forgot Password
+![Forgot](screenshots/forgot.jpg)
+
+### Reset Password
+![Reset](screenshots/reset.jpg)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
 
 ---
 
